@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ApexLegendsCharacters" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/black</item>
+         <item name="colorOnPrimary">@color/white</item>
+        <!--status bar color.-->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/black</item>
+        <item name="android:background">@color/cream</item>
+    </style>
+
+    <style name="Theme.ApexLegendsCharacters" parent="Base.Theme.ApexLegendsCharacters" />
+</resources>

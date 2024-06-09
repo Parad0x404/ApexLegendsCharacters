@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Apex Legends Characters</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_detail">Share</string>
+    <string name="legends_name">Nama Legends</string>
+    <string name="detail_description">Detail Deskripsi</string>
+    <string name="title">Title</string>
+    <string name="biodata">BIODATA</string>
+    <string name="realName">Real Name :</string>
+    <string name="age">Age :</string>
+    <string name="homeplanet">Home World :</string>
+    <string name="age_data">00</string>
+    <string name="planet_data">Nama Planet</string>
+
+    //about_data
+    <string name="name">Anugerah Ramadhan</string>
+    <string name="email">mr.anugerah17@gmail.com</string>
+
+    //legends_data
+    <string-array name="legends_name">
+        <item>Ash</item>
+        <item>Bangalore</item>
+        <item>Bloodhound</item>
+        <item>Caustic</item>
+        <item>Crypto</item>
+        <item>Gibraltar</item>
+        <item>Lifeline</item>
+        <item>Loba</item>
+        <item>Mirage</item>
+        <item>Octane</item>
+        <item>Valkryie</item>
+        <item>Wraith</item>
+    </string-array>
+
+    <string-array name="legends_title">
+        <item>Incisive Instigator</item>
+        <item>Professional Soldier</item>
+        <item>Technological Tracker</item>
+        <item>Toxic Trapper</item>
+        <item>Surveillance Expert</item>
+        <item>Shielded Fortress</item>
+        <item>Combat Medic</item>
+        <item>Translocating Thief</item>
+        <item>Holographic Trickster</item>
+        <item>High-Speed Daredevil</item>
+        <item>Winged Avenger</item>
+        <item>Interdimensional Skirmisher</item>
+    </string-array>
+
+    <string-array name="legends_description">
+        <item>Born in the unforgiving Frontier, Dr. Ashleigh Reid - still very much a human - learned early that the only person who was going to look out for her was herself. One day, she was hired by a mercenary group for a delicate job: steal an experimental fuel source being researched in the Outlands city of Olympus. It was the perfect job for Reid, who infiltrated and psychologically manipulated the researchers for years. When the lab self-destructed, she died.</item>
+        <item>Born into a military family where she, her parents, and her four older brothers all served with the IMC, Bangalore has been an exceptional soldier her whole life. Dedicated to the IMC cause, she was top of her class at the IMC Military Academy and the only cadet who could take apart a Peacekeeper, equip it with a Precision Choke hop-up, and put it back together in under twenty seconds – blindfolded.</item>
+        <item>Bloodhound is known across the Outlands as one of the greatest game hunters the Frontier has ever seen. The child of two engineers stationed at the New Dawn industrial plant on Talos, Bloodhound was taken in by their uncle Artur after a meltdown destroyed the facility and killed both their parents. Artur taught them the Old Ways, a belief system that focuses on the glory of nature and rejects modern technology. Yet Bloodhound was constantly drawn to technological marvels, and ultimately used both new and old methods to take down a Goliath that preyed on the people of their village, forever changing their life’s path.</item>
+        <item>Alexander Nox used to be one of the brightest scientists in the employ of Humbert Labs, the Frontier’s leading manufacturer of pesticide gases. Nox worked day and night developing new formulas for the glut of pesticides needed to protect the crops that sustained the Outlands. But he soon realized that progress was being hampered by his testing methods. He needed to test on more than just inert tissue: he needed living subjects.</item>
+        <item>Crypto specializes in secrets. A brilliant hacker and encryption expert, he uses aerial drones to spy on his opponents in the Apex Arena without being seen. He also has a secret of his own: his name is Tae Joon Park, and he joined the Apex Games to find the people who framed him for murder.</item>
+        <item>Gibraltar is a gentle giant with a wild side. The son of two SARAS (Search and Rescue Association of Solace) volunteers, he has always been skilled at getting others out of dangerous situations that are common in the Outlands. However, he only began to understand the value of protecting others when he and his boyfriend stole his father’s motorcycle, took it on a joyride, and got trapped by a deadly mudslide. His parents saved them, and his father lost an arm in the process. Gibraltar has never forgotten that sacrifice and has devoted his life to helping those in need.</item>
+        <item>Ajay Che, aka Lifeline, isn’t someone you would expect to find in the Apex Games. The child of wealthy war profiteers, she left home when she learned of the damage her family had caused and enlisted in the Frontier Corps, a humanitarian organization that aids Frontier communities in need. She’s since devoted her life to helping others and joined the Apex Games to give more funds to those in need.</item>
+        <item>When Loba was nine, she looked on as simulacrum hitman Revenant killed her family. Left with nothing, Loba survived by picking pockets. As her skills improved, Loba used every tool at her disposal to lift herself from the gutter. Everything changed when she broke into a supposedly impenetrable facility and got her hands on the Jump Drive tech stored inside. With her new teleportation bracelet, the most secure and unattainable items were within her reach. So was her dream of living the high life.</item>
+        <item>Mirage is the kind of guy who likes to stand out. The youngest of four brothers, he perfected the art of fooling around to get attention. The one thing he took seriously was Holo-Pilot technology: introduced to the illusion-creating tech by his engineer mother, he poured over the mechanisms and learned all he could about them. Even when his brothers went MIA during the Outlands’ Civil War, Mirage and his mother continued to develop holo devices, and the work brought them closer.</item>
+        <item>One day, Octavio Silva was bored. In fact, he was bored most days. Son of the preoccupied CEO of Silva Pharmaceuticals and wanting for nothing in life, he entertained himself by performing death-defying stunts and posting holovids of them for his fans to gawk over. He decided to set the course record for a nearby Gauntlet by launching himself across the finish line – using a grenade.</item>
+        <item>Bold, brash, fiery and fierce, Kairi Imahara isn’t above greasing palms and bending the law. When she was a child, she stole a Titan. It belonged to her dad: callsign Viper. She wanted to be just like him when she grew up. But the next day he left on a mission and never returned. In some ways, she still followed in his footsteps: it wasn\'t a Titan, but her ship offered a decent living. Her personal life, however, was anything but. During the day, she smuggled precious cargo, and at night, went shot for shot with the outlaws and mercs in the bars. But even though she had her ladies, her liquor, and her love of the sky, she was still obsessed with finding the man who’d put her father in harm’s way: his commander, Kuben Blisk.</item>
+        <item>Wraith is a whirlwind fighter, able to execute deadly attacks and manipulate spacetime by opening rifts in the fabric of reality — but those abilities came at a price. Years ago, she woke up in an IMC detention facility with no memory of who she was. Senior Science Pilot Renee Blasey, who volunteered as guinea pig for her own experiments... whose partner betrayed her and locked her away… no longer existed. All that was left was a timid girl, frightened by a cacophony of voices in her head, until another version of herself appeared and taught her to listen to the voices. Following her lead, Wraith found the strength to break free from her prison and escape into a different reality - this reality.</item>
+    </string-array>
+
+    <string-array name="legends_photo">
+        <item>https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-ash.png.adapt.crop16x9.png</item>
+        <item>https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-bangalore.png.adapt.crop16x9.png</item>
+        <item>https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-bloodhound.png.adapt.crop16x9.png</item>
+        <item>https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-caustic.png.adapt.crop16x9.png</item>
+        <item>https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-crypto.png.adapt.crop16x9.png</item>
+        <item>https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-gibraltar.png.adapt.crop16x9.png</item>
+        <item>https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-lifeline.png.adapt.crop16x9.png</item>
+        <item>https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/05/apex-grid-tile-legends-loba.png.adapt.crop16x9.png</item>
+        <item>https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-mirage.png.adapt.crop16x9.png</item>
+        <item>https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-octane.png.adapt.crop16x9.png</item>
+        <item>https://media.contentapi.ea.com/content/dam/apex-legends/images/2021/04/apex-grid-tile-legends-valkyrie.png.adapt.crop16x9.png</item>
+        <item>https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-wraith.png.adapt.crop16x9.png</item>
+    </string-array>
+
+    <string-array name="legends_realName">
+        <item>Dr. Ashleigh Reid</item>
+        <item>Anita Williams</item>
+        <item>Blódhundr</item>
+        <item>Alexander Nox</item>
+        <item>Tae Joon Park</item>
+        <item>Makoa Gibraltar</item>
+        <item>Ajay Che</item>
+        <item>Loba Andrade</item>
+        <item>Elliott Witt</item>
+        <item>Octavio Silva</item>
+        <item>Kairi Imahara</item>
+        <item>Renee H. Blasey</item>
+    </string-array>
+
+    <string-array name="legends_age">
+        <item>122</item>
+        <item>40</item>
+        <item>40</item>
+        <item>50</item>
+        <item>24</item>
+        <item>32</item>
+        <item>26</item>
+        <item>36</item>
+        <item>32</item>
+        <item>26</item>
+        <item>31</item>
+        <item>34</item>
+    </string-array>
+
+    <string-array name="legends_homePlanet">
+        <item>Unknown</item>
+        <item>Gridiron</item>
+        <item>Talos</item>
+        <item>Gaea</item>
+        <item>Gaea</item>
+        <item>Solace</item>
+        <item>Psamathe</item>
+        <item>None</item>
+        <item>Solace</item>
+        <item>Psamathe</item>
+        <item>Angelia</item>
+        <item>Typhon</item>
+    </string-array>
+</resources>
